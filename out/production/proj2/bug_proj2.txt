@@ -1,0 +1,4 @@
+Dear staff:
+I met a problem when running errormoves-1. My program prints out "Invalid moves, please try again." Because we are styping in commands which result in invalid moves. However, in the std file, there is no such message. Should I find a way to get rid of the message? Or should I keep it but the input and output do not match? Thanks in advance!
+Best
+Wendi
